@@ -1,0 +1,2 @@
+# Anywhere-and-anytime-bus-booking-system
+A digitalized bus booking web application,in which passengers can check if seats are available in a bus, at a particular time and at the particular stop, and helping a conductor to log in to enter the details of the seats in the bus. Taking into consideration for the woman seats, senior citizen seats, pwd people, and booking of the seat, and then downloading the ticket for that particular seat.   
